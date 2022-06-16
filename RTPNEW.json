@@ -1,0 +1,77 @@
+{
+  "pc": "com.kalonghideung.rtp",
+  "kang_zayvius": [      
+    {
+      "id": "1",
+      "tittle": "Jam Gacor",
+      "link_html": "https://raw.githubusercontent.com/myghithub/Rtp/main/JAM%20GACOR.html",
+      "images": "https://i.ytimg.com/vi/FLzLauADyzg/maxresdefault.jpg"
+     },
+     {
+      "id": "2",
+      "tittle": "RTP Pragmatic",
+      "link_html": "https://raw.githubusercontent.com/myghithub/Rtp/main/RTP%20Pramatic.html",
+      "images": "https://i.ibb.co/PWMsWr8/RTP.jpg"
+     },
+    {
+      "id": "3",
+      "tittle": "RTP Spade Gaming",
+      "link_html": "https://raw.githubusercontent.com/myghithub/Rtp/main/RTP%20SPADEGAMING.html",
+      "images": "https://i.ibb.co/PWMsWr8/RTP.jpg"
+     },
+    {
+      "id": "4",
+      "tittle": "RTP PG Soft",
+      "link_html": "https://raw.githubusercontent.com/myghithub/Rtp/main/RTP%20PG.html",
+      "images": "https://i.ibb.co/PWMsWr8/RTP.jpg"
+     },
+     {
+      "id": "5",
+      "tittle": "RTP HABANERO",
+      "link_html": "https://raw.githubusercontent.com/myghithub/Rtp/main/RTP%20HABANERO.html",
+      "images": "https://i.ibb.co/PWMsWr8/RTP.jpg"
+     },
+     {
+      "id": "6",
+      "tittle": "RTP MICRO GAMEMING",
+      "link_html": "https://raw.githubusercontent.com/myghithub/Rtp/main/RTP%20Micro%20Gaming.html",
+      "images": "https://i.ibb.co/PWMsWr8/RTP.jpg"
+     },
+    {
+      "id": "7",
+      "tittle": "RTP JOKERS",
+      "link_html": "https://raw.githubusercontent.com/myghithub/Rtp/main/RTP%20JOKER.html",
+      "images": "https://i.ibb.co/PWMsWr8/RTP.jpg"
+     },
+     {
+      "id": "8",
+      "tittle": "RTP CQ9",
+      "link_html": "https://raw.githubusercontent.com/myghithub/Rtp/main/RTP%20CQ9.html",
+      "images": "https://i.ibb.co/PWMsWr8/RTP.jpg"
+     },
+    {
+      "id": "9",
+      "tittle": "POLA OLYMPUS",
+      "link_html": "https://raw.githubusercontent.com/myghithub/Rtp/main/POLA%20OLYMPUS.html",
+      "images": "https://i.ytimg.com/vi/8cXarSN5U_0/maxresdefault.jpg"
+     },
+    {
+      "id": "10",
+      "tittle": "POLA PRINCES",
+      "link_html": "https://raw.githubusercontent.com/myghithub/Rtp/main/POLA%20PRINCES.html",
+      "images": "https://i.ytimg.com/vi/PzellBAK3MA/maxresdefault.jpg"
+     },
+     {
+      "id": "11",
+      "tittle": "POLA BONANZA",
+      "link_html": "https://raw.githubusercontent.com/myghithub/Rtp/main/POLA%20BONANZA.html",
+      "images": "https://i.ytimg.com/vi/E5siH8-AIUY/hqdefault.jpg"
+     },
+     {
+      "id": "12",
+      "tittle": "POLA CHAINSHEN GOLD",
+      "link_html": "https://raw.githubusercontent.com/myghithub/Rtp/main/POLA%20CAISHEN%20GOLD.html",
+      "images": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR9wq-396Fn4H3QuhpojIXYJaCF3IEgEPDyFAPIha98GlRCrS3h2zQIARJrR7ev-2_Vt9k&usqp=CAU"
+     }
+  ]
+}
